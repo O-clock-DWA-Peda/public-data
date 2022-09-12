@@ -1,0 +1,29 @@
+{
+  "ingredients": [
+    {
+      "name": "Chocolat",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Beurre",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Farine",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Sucre",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Oeufs",
+      "quantity": 3,
+      "unit": ""
+    }
+  ]
+}

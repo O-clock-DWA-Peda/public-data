@@ -1,0 +1,22 @@
+[
+  {
+    "city": "Paris",
+    "temperature": 20
+  },
+  {
+    "city": "Marseille",
+    "temperature": 28
+  },
+  {
+    "city": "Lille",
+    "temperature": 17
+  },
+  {
+    "city": "Lyon",
+    "temperature": 25
+  },
+  {
+    "city": "Starsbourg",
+    "temperature": 24
+  }
+]
