@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Paulo",
+    "grade": 4,
+    "withComment": true,
+    "comment": "Les fruits sont délicieux, je recommande."
+  },
+  {
+    "name": "Sylvania",
+    "grade": 5,
+    "withComment": true,
+    "comment": "C'est parfait, merci chouette maraîcher."
+  },
+  {
+    "name": "Paulo",
+    "grade": 4,
+    "withComment": false,
+    "comment": ""
+  },
+  {
+    "name": "Paulo",
+    "grade": 3,
+    "withComment": false,
+    "comment": ""
+  },
+  {
+    "name": "Chérubin",
+    "grade": 4,
+    "withComment": true,
+    "comment": "J'adore c'est top."
+  },
+]
