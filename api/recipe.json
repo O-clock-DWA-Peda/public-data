@@ -22,7 +22,8 @@
     },
     {
       "name": "Oeufs",
-      "quantity": 3
+      "quantity": 3,
+      "unit": ''
     }
   ]
 }
